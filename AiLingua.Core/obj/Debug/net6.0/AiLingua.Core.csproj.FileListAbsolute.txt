@@ -1,0 +1,12 @@
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Core\obj\Debug\net6.0\AiLingua.Core.csproj.AssemblyReference.cache
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Core\obj\Debug\net6.0\AiLingua.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Core\obj\Debug\net6.0\AiLingua.Core.AssemblyInfoInputs.cache
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Core\obj\Debug\net6.0\AiLingua.Core.AssemblyInfo.cs
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Core\obj\Debug\net6.0\AiLingua.Core.csproj.CoreCompileInputs.cache
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Core\bin\Debug\net6.0\AiLingua.Core.deps.json
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Core\bin\Debug\net6.0\AiLingua.Core.dll
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Core\bin\Debug\net6.0\AiLingua.Core.pdb
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Core\obj\Debug\net6.0\AiLingua.Core.dll
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Core\obj\Debug\net6.0\refint\AiLingua.Core.dll
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Core\obj\Debug\net6.0\AiLingua.Core.pdb
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Core\obj\Debug\net6.0\ref\AiLingua.Core.dll

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "9J1i3m+hYeTZx30EzluifYscVjfGhvVTnlU7RgzYAB8=",
+  "Source": "AiLingua.HTI",
+  "BasePath": "_content/AiLingua.HTI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AiLingua.HTI\\wwwroot",
+      "Source": "AiLingua.HTI",
+      "ContentRoot": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\",
+      "BasePath": "_content/AiLingua.HTI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

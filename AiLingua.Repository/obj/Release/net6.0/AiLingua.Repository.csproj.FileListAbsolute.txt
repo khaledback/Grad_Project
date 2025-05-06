@@ -1,0 +1,15 @@
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Repository\bin\Release\net6.0\AiLingua.Repository.deps.json
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Repository\bin\Release\net6.0\AiLingua.Repository.dll
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Repository\bin\Release\net6.0\AiLingua.Repository.pdb
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Repository\bin\Release\net6.0\AiLingua.Core.dll
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Repository\bin\Release\net6.0\AiLingua.Core.pdb
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Repository\obj\Release\net6.0\AiLingua.Repository.csproj.AssemblyReference.cache
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Repository\obj\Release\net6.0\AiLingua.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Repository\obj\Release\net6.0\AiLingua.Repository.AssemblyInfoInputs.cache
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Repository\obj\Release\net6.0\AiLingua.Repository.AssemblyInfo.cs
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Repository\obj\Release\net6.0\AiLingua.Repository.csproj.CoreCompileInputs.cache
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Repository\obj\Release\net6.0\AiLingua.33C736AE.Up2Date
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Repository\obj\Release\net6.0\AiLingua.Repository.dll
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Repository\obj\Release\net6.0\refint\AiLingua.Repository.dll
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Repository\obj\Release\net6.0\AiLingua.Repository.pdb
+D:\GraduationProject\AiLingua.HTI.Solution\AiLingua.Repository\obj\Release\net6.0\ref\AiLingua.Repository.dll

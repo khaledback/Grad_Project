@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AiLingua.HTI.props" />
+</Project>

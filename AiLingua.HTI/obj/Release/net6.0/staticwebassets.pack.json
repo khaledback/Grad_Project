@@ -1,0 +1,153 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\images\\75e8a9de-e0ae-4584-952c-2e8d96428d64.jpg",
+      "PackagePath": "staticwebassets\\images\\75e8a9de-e0ae-4584-952c-2e8d96428d64.jpg"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\images\\teacher1photo.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher1photo.jpg"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\images\\teacher2photo.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher2photo.jpg"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\images\\user1photo.jpg",
+      "PackagePath": "staticwebassets\\images\\user1photo.jpg"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\images\\user2photo.jpg",
+      "PackagePath": "staticwebassets\\images\\user2photo.jpg"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\02fff118-5e01-4281-bb3a-96a4825b3905.pptx",
+      "PackagePath": "staticwebassets\\slides\\02fff118-5e01-4281-bb3a-96a4825b3905.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\0e83ec1c-9619-443c-8ae8-b8c9f5413639.pptx",
+      "PackagePath": "staticwebassets\\slides\\0e83ec1c-9619-443c-8ae8-b8c9f5413639.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\186eaf33-cf8e-43b8-89c8-9907a5095dd1.pptx",
+      "PackagePath": "staticwebassets\\slides\\186eaf33-cf8e-43b8-89c8-9907a5095dd1.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\20f9b93f-86ff-4c67-8c27-dc6e53711805.pptx",
+      "PackagePath": "staticwebassets\\slides\\20f9b93f-86ff-4c67-8c27-dc6e53711805.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\22b90c8b-00f0-43b0-8e9f-452334b984a0.pptx",
+      "PackagePath": "staticwebassets\\slides\\22b90c8b-00f0-43b0-8e9f-452334b984a0.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\2d99dce7-617d-4c52-b5d5-1aee038dcecb.pptx",
+      "PackagePath": "staticwebassets\\slides\\2d99dce7-617d-4c52-b5d5-1aee038dcecb.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\5806469e-10e9-455c-8ff3-0fedc107ed58.pptx",
+      "PackagePath": "staticwebassets\\slides\\5806469e-10e9-455c-8ff3-0fedc107ed58.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\58dc3302-af68-42e7-8afe-e8961a8e6fb8.pptx",
+      "PackagePath": "staticwebassets\\slides\\58dc3302-af68-42e7-8afe-e8961a8e6fb8.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\5cb7c8ed-9077-4693-87bd-bc6c00fa75b0.ppt",
+      "PackagePath": "staticwebassets\\slides\\5cb7c8ed-9077-4693-87bd-bc6c00fa75b0.ppt"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\6054dbf4-ca3f-46cb-bdb3-f1313821a29b.pptx",
+      "PackagePath": "staticwebassets\\slides\\6054dbf4-ca3f-46cb-bdb3-f1313821a29b.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\6ccac596-4fb3-4e84-ab56-db5d08acf3f8.pptx",
+      "PackagePath": "staticwebassets\\slides\\6ccac596-4fb3-4e84-ab56-db5d08acf3f8.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\7ae36746-e900-4728-add5-c58c8dd4fb91.pptx",
+      "PackagePath": "staticwebassets\\slides\\7ae36746-e900-4728-add5-c58c8dd4fb91.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\7d0d85c8-a534-4a8b-8285-a1c45bf0a713.pptx",
+      "PackagePath": "staticwebassets\\slides\\7d0d85c8-a534-4a8b-8285-a1c45bf0a713.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\83c8be32-668c-4f26-af34-6462ba274038.pptx",
+      "PackagePath": "staticwebassets\\slides\\83c8be32-668c-4f26-af34-6462ba274038.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\896577b9-6a9a-49c9-bab0-39750b822f29.pptx",
+      "PackagePath": "staticwebassets\\slides\\896577b9-6a9a-49c9-bab0-39750b822f29.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\8c18bc48-61ad-4f28-9e1d-a6c5cbaca759.pptx",
+      "PackagePath": "staticwebassets\\slides\\8c18bc48-61ad-4f28-9e1d-a6c5cbaca759.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\93d8e05d-9246-441a-a99e-afbf05daeb3f.pptx",
+      "PackagePath": "staticwebassets\\slides\\93d8e05d-9246-441a-a99e-afbf05daeb3f.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\973b829e-627e-4a94-8176-240f842b90bf.pptx",
+      "PackagePath": "staticwebassets\\slides\\973b829e-627e-4a94-8176-240f842b90bf.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\9caa84a0-e939-47df-a489-f95273a56ee6.ppt",
+      "PackagePath": "staticwebassets\\slides\\9caa84a0-e939-47df-a489-f95273a56ee6.ppt"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\bda7021c-2933-45b9-a121-ec0c9f4adcbb.pptx",
+      "PackagePath": "staticwebassets\\slides\\bda7021c-2933-45b9-a121-ec0c9f4adcbb.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\c07b29bf-f1b1-4224-be97-2a77c4d8b55a.pptx",
+      "PackagePath": "staticwebassets\\slides\\c07b29bf-f1b1-4224-be97-2a77c4d8b55a.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\dd522c81-ffa1-4b7d-b032-17a8f839bfda.pptx",
+      "PackagePath": "staticwebassets\\slides\\dd522c81-ffa1-4b7d-b032-17a8f839bfda.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\e3a23bd5-58e5-4ca6-9825-21146bef02cf.pptx",
+      "PackagePath": "staticwebassets\\slides\\e3a23bd5-58e5-4ca6-9825-21146bef02cf.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\ed339bbd-7e3b-4ec7-8bc5-ba5320030a6c.pptx",
+      "PackagePath": "staticwebassets\\slides\\ed339bbd-7e3b-4ec7-8bc5-ba5320030a6c.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\ede5a601-ac5b-41c8-988d-3a8439bef8d7.pptx",
+      "PackagePath": "staticwebassets\\slides\\ede5a601-ac5b-41c8-988d-3a8439bef8d7.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\ee79ae51-da57-4d34-8f17-450def057f81.pptx",
+      "PackagePath": "staticwebassets\\slides\\ee79ae51-da57-4d34-8f17-450def057f81.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\f1e2d525-818e-4b7c-9c16-90201b54953c.pptx",
+      "PackagePath": "staticwebassets\\slides\\f1e2d525-818e-4b7c-9c16-90201b54953c.pptx"
+    },
+    {
+      "Id": "D:\\GraduationProject\\AiLingua.HTI.Solution\\AiLingua.HTI\\wwwroot\\slides\\f2848325-9cac-4261-9ce0-8fdc677da327.pptx",
+      "PackagePath": "staticwebassets\\slides\\f2848325-9cac-4261-9ce0-8fdc677da327.pptx"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.AiLingua.HTI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.AiLingua.HTI.props",
+      "PackagePath": "build\\AiLingua.HTI.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AiLingua.HTI.props",
+      "PackagePath": "buildMultiTargeting\\AiLingua.HTI.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.AiLingua.HTI.props",
+      "PackagePath": "buildTransitive\\AiLingua.HTI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
